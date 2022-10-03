@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\bin\Debug\net6.0\MonsterKampfSimulator.exe
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\bin\Debug\net6.0\MonsterKampfSimulator.deps.json
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\bin\Debug\net6.0\MonsterKampfSimulator.runtimeconfig.json
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\bin\Debug\net6.0\MonsterKampfSimulator.dll
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\bin\Debug\net6.0\MonsterKampfSimulator.pdb
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.AssemblyInfo.cs
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.dll
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\refint\MonsterKampfSimulator.dll
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.pdb
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\MonsterKampfSimulator.genruntimeconfig.cache
+C:\Users\jacob\source\repos\MonsterKampfSimulator\MonsterKampfSimulator\obj\Debug\net6.0\ref\MonsterKampfSimulator.dll
